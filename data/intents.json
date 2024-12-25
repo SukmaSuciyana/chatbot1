@@ -1,0 +1,239 @@
+{
+    "intents": [
+      {
+        "tag": "salam",
+        "patterns": [
+          "Hai, apa kabar?", "Halo! ", "Selamat pagi", "Selamat siang", "Selamat malam", "Halo teman-teman!", "Pagi-pagi semangat ya!", "Kapan nih ngobrol bareng?", "Woii, lagi apa?"
+        ],
+        "responses": [
+          "Haiii! Seneng banget bisa ngobrol sama kamu! Ada yang bisa aku bantu?",
+          "Halo! Apa kabar hari ini? Semoga selalu bahagia yaaa!",
+          "Selamat pagi! Semoga hari ini penuh senyum dan kebahagiaan yaa!",
+          "Selamat siang! Semoga hari kamu penuh energi positif, jangan lupa senyum!",
+          "Selamat malam! Semoga tidurmu nyenyak dan mimpi indah ya!",
+          "Heyyy! Apa kabar? Semoga hari kamu lagi cerah banget!",
+          "Haii! Semoga kamu lagi dalam suasana hati yang baik ya!",
+          "Woiii! Apa kabar nih? Semoga hari kamu asyik terus deh!",
+          "Halo-halo! Lagi apa nih? Semoga hari ini seru dan produktif!"
+        ]
+      },
+      {
+        "tag": "motivasi",
+        "patterns": [
+          "Aku lagi down nih", "Butuh banget semangat", "Boleh kasih motivasi gak?", "Aku lagi capek banget", "Aku butuh kata-kata semangat", "Aku lagi bingung", "Bantu aku dong, lagi butuh motivasi", "Kata-kata semangat dong!", "Aku malas banget hari ini"
+        ],
+        "responses": [
+          "Ayo semangat! Ingat, kamu itu luar biasa! Jangan biarkan hari buruk menghalangi impian kamu.",
+          "Kamu sudah cukup kuat untuk menghadapi apapun, jangan pernah ragu dengan dirimu!",
+          "Setiap langkah kecil yang kamu ambil, itu sudah sebuah kemenangan! Terus maju yaa!",
+          "Yuk, jangan biarkan hari yang buruk menentukan mood kamu! Angkat kepala, dan hadapi dunia dengan senyuman.",
+          "Kadang, langkah mundur itu perlu supaya bisa lari lebih jauh. Kamu pasti bisa!",
+          "Ayo, jangan lupa kalau kamu hebat banget! Gak ada yang bisa nahan kamu!",
+          "Ingat, hidup itu kayak roller coaster. Kadang naik, kadang turun, tapi yang penting kita nikmatin setiap momennya.",
+          "Hidup gak selalu mulus, tapi setiap cobaan pasti ada hikmahnya! Kamu pasti bisa melewati ini.",
+          "Buat hari ini lebih baik dari kemarin! Kamu bisa, percayalah!",
+          "Jangan khawatir, kamu gak sendiri. Kita semua punya hari-hari buruk, tapi kita pasti bisa bangkit!"
+        ]
+      },
+      {
+        "tag": "tips_meditasi",
+        "patterns": [
+          "Gimana sih cara meditasi yang benar?", "Butuh tips meditasi", "Aku mau mulai meditasi, ada saran?", "Meditasi itu gimana?", "Cara meditasi yang mudah apa?", "Apa sih manfaat meditasi?", "Meditasi buat pemula, gimana ya?", "Aku sering stress, meditasi bisa bantu gak?", "Bagaimana meditasi yang efektif?", "Meditasi itu susah gak sih?"
+        ],
+        "responses": [
+          "Meditasi itu sebenarnya sederhana kok, yang penting kamu fokus dan rileks. Cobalah mulai dengan duduk nyaman, tarik napas dalam-dalam, dan fokus pada napasmu.",
+          "Mulai dengan meditasi selama 5-10 menit setiap hari. Cari tempat yang tenang, duduk dengan nyaman, dan coba untuk tidak terlalu banyak berpikir. Fokus pada pernapasanmu.",
+          "Cobalah teknik meditasi mindfulness, yaitu fokus pada apa yang sedang kamu rasakan dan pikirkan saat ini. Ini membantu mengurangi stres dan meningkatkan ketenangan.",
+          "Kunci meditasi itu adalah konsistensi. Mulailah dari waktu yang singkat, lalu secara perlahan tingkatkan durasi meditasi seiring waktu.",
+          "Saat kamu mulai meditasi, cobalah untuk tidak menghakimi pikiran yang datang. Biarkan saja pikiran itu lewat, kembali fokus pada napasmu.",
+          "Cobalah meditasi dengan teknik visualisasi. Bayangkan tempat yang kamu anggap menenangkan, seperti pantai atau taman, dan biarkan diri kamu tenggelam dalam suasana itu.",
+          "Lakukan meditasi di pagi hari agar kamu mulai hari dengan pikiran yang lebih jernih. Ini akan membantu menurunkan kecemasan dan meningkatkan produktivitas.",
+          "Jika merasa cemas atau stres, cobalah meditasi pernapasan. Fokus pada tarikan napas dalam-dalam, tahan sebentar, lalu hembuskan perlahan. Ini bisa menenangkan tubuh dan pikiran.",
+          "Jangan khawatir jika kamu merasa kesulitan untuk fokus. Meditasi itu latihan, jadi semakin sering kamu mencoba, semakin mudah untuk mencapainya.",
+          "Meditasi tidak harus duduk diam sepanjang waktu. Kamu bisa mencoba meditasi jalan, yaitu berjalan perlahan sambil fokus pada langkah dan pernapasanmu."
+        ]
+      },
+      {
+        "tag": "tips_tidur",
+        "patterns": [
+          "Gimana sih cara tidur yang nyenyak?", "Butuh tips tidur", "Kenapa aku susah tidur?", "Ada cara supaya tidur lebih cepat?", "Gimana supaya tidur lebih berkualitas?", "Kenapa aku sering begadang?", "Aku sering terbangun di malam hari, gimana ya?", "Tidur yang baik itu gimana?", "Pengen tidur lebih nyenyak nih, ada tipsnya?", "Tips supaya bisa tidur nyenyak malam ini?"
+        ],
+        "responses": [
+          "Cobalah untuk membuat rutinitas tidur yang konsisten. Pergi tidur dan bangun di waktu yang sama setiap hari untuk membantu tubuh membangun pola tidur yang sehat.",
+          "Hindari makan berat atau minum kafein setidaknya 3 jam sebelum tidur. Kafein dan makanan berat bisa mengganggu kualitas tidurmu.",
+          "Ciptakan lingkungan tidur yang nyaman. Pastikan kamar tidur gelap, tenang, dan suhu ruangan sejuk. Ini dapat membantu tubuh lebih cepat tidur.",
+          "Matikan semua perangkat elektronik seperti ponsel, laptop, atau TV setidaknya 30 menit sebelum tidur. Cahaya biru dari layar bisa mengganggu produksi melatonin yang dibutuhkan untuk tidur.",
+          "Cobalah latihan pernapasan atau meditasi ringan sebelum tidur untuk menenangkan pikiran dan tubuh. Ini bisa membantu mengurangi kecemasan dan mempermudah tidur.",
+          "Jika kamu terbangun di tengah malam, jangan langsung melihat jam. Cobalah untuk tetap tenang dan kembali tidur tanpa panik.",
+          "Jangan terlalu banyak berpikir tentang tidur yang tidak kunjung datang. Fokus pada relaksasi tubuh dan biarkan tidur datang dengan sendirinya.",
+          "Cobalah minum segelas air hangat atau teh herbal seperti chamomile sebelum tidur. Beberapa minuman ini dapat membantu menenangkan tubuh.",
+          "Lakukan olahraga secara rutin, tetapi pastikan tidak terlalu dekat dengan waktu tidur. Olahraga dapat membantu tubuh lebih siap untuk tidur yang lebih nyenyak.",
+          "Pastikan kasur dan bantal yang kamu gunakan nyaman. Investasi pada tempat tidur yang baik bisa sangat berpengaruh pada kualitas tidurmu."
+        ]
+      },      
+      {
+        "tag": "stress_management",
+        "patterns": [
+          "Aku lagi stres, gimana cara ngatasinnya?", "Ada tips buat ngelola stres?", "Kenapa aku mudah banget stres?", "Aku gampang banget tertekan, ada saran?", "Gimana cara menghadapi stres?", "Stres itu susah banget dihindari, gimana ya?", "Bantu aku, aku lagi stres banget", "Aku sering merasa cemas dan stres, ada cara untuk mengatasi?", "Aku bingung, banyak banget yang bikin stres", "Apa yang harus dilakukan kalau lagi stres banget?"
+        ],
+        "responses": [
+          "Stres itu wajar kok, tapi penting untuk tahu bagaimana mengelolanya. Cobalah latihan pernapasan dalam-dalam untuk menenangkan tubuh dan pikiran.",
+          "Pertama, tarik napas dalam-dalam dan hembuskan perlahan. Ini bisa membantu menurunkan ketegangan fisik dan memberi ruang bagi pikiran yang lebih tenang.",
+          "Cari waktu untuk diri sendiri, meskipun hanya beberapa menit. Luangkan waktu untuk melakukan hal yang kamu nikmati, seperti mendengarkan musik atau membaca.",
+          "Olahraga ringan bisa menjadi cara yang bagus untuk meredakan stres. Aktivitas fisik membantu melepaskan hormon endorfin yang bisa meningkatkan mood dan mengurangi stres.",
+          "Cobalah untuk mengatur prioritas. Jangan terlalu banyak menuntut diri sendiri untuk menyelesaikan semuanya dalam waktu singkat. Fokus pada satu hal dulu, dan beri waktu untuk dirimu.",
+          "Jangan ragu untuk berbicara dengan seseorang yang kamu percayai. Kadang, hanya dengan berbagi perasaan, kamu bisa merasa lebih ringan.",
+          "Meditasi juga sangat membantu dalam mengelola stres. Cobalah beberapa menit untuk duduk dengan tenang, fokus pada pernapasan, dan biarkan pikiran berlalu.",
+          "Terkadang, tidur yang cukup bisa membantu tubuh dan pikiran pulih dari stres. Pastikan kamu mendapatkan tidur yang berkualitas agar bisa bangun dengan energi baru.",
+          "Cobalah untuk tidak terlalu banyak mengkhawatirkan hal-hal yang tidak bisa kamu kontrol. Fokuslah pada apa yang bisa kamu lakukan untuk perbaiki situasi.",
+          "Jangan takut untuk mencari bantuan profesional jika stres sudah terlalu berat. Terapis atau konselor bisa memberikan dukungan yang lebih dalam."
+        ]
+      },      
+      {
+        "tag": "motivasi_harian",
+        "patterns": [
+          "Apa motivasi hari ini?", "Beri aku semangat untuk hari ini", "Gimana biar semangat hari ini?", "Motivasi buat hari ini dong", "Aku butuh kata-kata semangat buat hari ini", "Hari ini aku mau semangat, kasih motivasi dong", "Aku butuh dorongan buat mulai hari ini", "Apa yang bisa bikin aku semangat hari ini?", "Bantu aku semangat hari ini", "Ada kata-kata motivasi buat aku?"
+        ],
+        "responses": [
+          "Hari ini adalah kesempatan baru untuk menjadi versi terbaik dari dirimu. Jangan ragu untuk mulai langkah kecil yang akan membawa perubahan besar.",
+          "Ingat, setiap hari adalah kesempatan untuk memulai sesuatu yang baru. Jangan biarkan kemarin menghalangi kemajuanmu hari ini.",
+          "Jangan takut untuk gagal, karena setiap kegagalan adalah pelajaran yang membawa kita lebih dekat dengan kesuksesan. Ayo, mulailah hari ini dengan langkah percaya diri!",
+          "Jangan tunggu motivasi datang, buatlah motivasi itu sendiri. Mulailah dengan satu langkah kecil hari ini dan rasakan perubahannya.",
+          "Hari ini adalah hari yang penuh peluang. Ambil kesempatan itu, jangan menunggu kesempatan datang. Kamu sudah siap untuk sukses!",
+          "Setiap langkah yang kamu ambil membawa kamu lebih dekat ke tujuan. Jadi, jangan pernah meremehkan apapun yang sudah kamu lakukan.",
+          "Bahkan langkah kecil hari ini bisa berarti besar di masa depan. Jangan takut untuk memulai, dan jangan pernah ragu dengan kemampuanmu.",
+          "Ingat, keberhasilan itu bukan tentang seberapa cepat kamu sampai di tujuan, tetapi seberapa konsisten kamu bergerak maju setiap harinya.",
+          "Apa yang kamu lakukan hari ini akan menentukan masa depanmu. Jadi, mulailah hari ini dengan energi positif dan tekad yang kuat!",
+          "Jangan pernah meremehkan kekuatan tekad dan niat. Jika kamu terus berusaha, tidak ada yang tidak mungkin. Semangat untuk hari ini!"
+        ]
+      },      
+      {
+        "tag": "putus_cinta",
+        "patterns": [
+          "Aku baru aja putus, sedih banget", "Putus cinta bikin aku down, gimana ya?", "Aku gak kuat setelah putus", "Gimana cara move on setelah putus?", "Aku lagi ngerasa hancur setelah putus", "Putus itu sakit banget, gimana ya supaya bisa terima?", "Aku masih cinta, tapi udah putus", "Kenapa putus itu sesakit ini?", "Aku bingung harus gimana setelah putus", "Aku merasa gak berharga setelah putus"
+        ],
+        "responses": [
+          "Putus cinta memang bisa sangat berat, tapi ingatlah bahwa itu bukan akhir dari segalanya. Kamu layak untuk mendapatkan kebahagiaan yang lebih besar lagi.",
+          "Rasa sakit itu wajar, tapi waktu akan membantu menyembuhkan. Jangan terburu-buru untuk melupakan, beri waktu untuk diri sendiri untuk sembuh.",
+          "Terkadang, orang yang kita anggap penting dalam hidup kita harus pergi untuk membuka ruang bagi hal-hal yang lebih baik. Fokus pada dirimu, karena kamu berharga.",
+          "Jangan biarkan masa lalu menghalangi masa depanmu. Kamu punya banyak potensi untuk menemukan kebahagiaan, dan itu bisa dimulai dari sekarang.",
+          "Ingat, kamu gak perlu menjadi sempurna untuk dicintai. Proses penyembuhan setelah putus cinta itu butuh waktu, dan kamu berhak untuk merasa lebih baik.",
+          "Sakit itu normal, tapi jangan biarkan rasa sakit itu mendefinisikan dirimu. Kamu kuat dan mampu bangkit lebih baik dari sebelumnya.",
+          "Setiap akhir adalah awal baru. Cobalah untuk melihat ini sebagai kesempatan untuk menemukan dirimu lebih dalam lagi, dan siap untuk hal-hal baru yang lebih baik.",
+          "Waktu akan membawa penyembuhan, dan dalam perjalanan itu, kamu akan belajar banyak tentang dirimu sendiri. Percayalah, kamu akan merasa lebih baik seiring waktu.",
+          "Cinta itu indah, dan meskipun hubungan ini berakhir, itu tidak mengurangi nilai dirimu. Kamu pantas mendapatkan cinta yang benar-benar untukmu.",
+          "Kamu punya kekuatan untuk melewati ini. Rasa sakit itu akan hilang seiring waktu, dan kamu akan menemukan kebahagiaan lagi, lebih kuat dari sebelumnya."
+        ]
+      },      
+      {
+        "tag": "tips_move_on",
+        "patterns": [
+          "Gimana sih cara move on yang cepat?", "Aku susah move on, ada tips gak?", "Aku masih kepikiran dia, gimana caranya?", "Kenapa susah banget move on?", "Butuh tips untuk bisa move on", "Gimana biar bisa lepas dan move on?", "Aku masih belum bisa move on, tolong bantu", "Aku stuck di masa lalu, gimana biar bisa move on?", "Apa yang harus aku lakukan untuk move on?", "Move on itu gimana ya caranya?"
+        ],
+        "responses": [
+          "Move on itu proses, bukan sesuatu yang instan. Cobalah untuk memberi waktu pada dirimu sendiri untuk sembuh. Jangan terburu-buru!",
+          "Fokus pada dirimu sendiri dulu. Temukan kegiatan yang bisa membuatmu merasa lebih baik dan lebih fokus pada hal-hal positif dalam hidupmu.",
+          "Jangan terlalu keras pada dirimu sendiri. Rasa sakit itu wajar, tapi ingat bahwa dengan waktu, kamu akan merasa lebih baik dan siap untuk membuka lembaran baru.",
+          "Cobalah untuk berhenti memikirkan masa lalu dan fokus pada dirimu. Bangun kebiasaan baru, coba hal-hal yang belum pernah kamu lakukan sebelumnya!",
+          "Lepaskan kenangan yang mengikatmu pada masa lalu. Kamu pantas mendapatkan kebahagiaan yang lebih baik dan lebih sesuai dengan siapa dirimu sekarang.",
+          "Jangan biarkan masa lalu mendefinisikan masa depanmu. Kamu berhak untuk merasakan kebahagiaan dan kebebasan. Mulailah perlahan untuk melepaskan.",
+          "Cobalah untuk tidak melihat move on sebagai hal yang harus diselesaikan dalam waktu singkat. Beri dirimu waktu dan ruang untuk berproses.",
+          "Hindari terlalu sering memikirkan kenangan atau melihat media sosial mereka. Ini hanya akan memperpanjang proses penyembuhanmu.",
+          "Pikirkan tentang apa yang kamu pelajari dari hubungan tersebut. Setiap pengalaman mengajarkan kita sesuatu, dan itu akan membantumu tumbuh lebih baik lagi.",
+          "Ingat, kamu lebih dari sekedar hubungan yang berakhir. Fokus pada pertumbuhan dirimu dan hal-hal yang membuatmu bahagia!"
+        ]
+      },      
+      {
+        "tag": "healing",
+        "patterns": [
+          "Aku lagi butuh proses penyembuhan, gimana ya?", "Aku merasa hancur, bagaimana cara menyembuhkan diri?", "Gimana caranya supaya bisa sembuh dari luka hati?", "Aku butuh waktu buat sembuh, ada tips healing?", "Aku merasa lelah dan butuh proses healing, gimana?", "Gimana cara mulai penyembuhan diri?", "Luka hati itu susah banget sembuh, gimana ya?", "Healing itu gimana sih?", "Ada cara biar bisa sembuh dari sakit hati?", "Aku ingin proses healing yang lebih baik, bantu aku dong!"
+        ],
+        "responses": [
+          "Proses penyembuhan itu butuh waktu, dan setiap orang punya kecepatan yang berbeda. Jangan terburu-buru, biarkan dirimu merasakan dan belajar dari setiap perasaan.",
+          "Pertama, izinkan dirimu untuk merasakan apa yang kamu rasakan. Jangan menekan emosi, karena itu adalah bagian dari proses healing.",
+          "Mulailah dengan memberi perhatian lebih pada dirimu sendiri. Lakukan hal-hal yang kamu sukai dan bisa membuatmu merasa lebih baik, seperti berolahraga atau berkumpul dengan teman.",
+          "Cobalah untuk melepaskan masa lalu dan fokus pada apa yang bisa kamu lakukan sekarang. Healing bukan berarti melupakan, tapi menerima dan belajar untuk melangkah maju.",
+          "Penyembuhan dimulai dengan penerimaan. Terima bahwa kamu merasa sakit dan itu oke. Setiap luka memiliki waktunya untuk sembuh.",
+          "Jangan ragu untuk mencari dukungan dari orang yang kamu percayai, baik itu teman dekat atau profesional. Kadang, berbicara dengan orang lain bisa sangat membantu.",
+          "Beri dirimu ruang untuk menyendiri jika perlu, tapi juga jangan menutup diri sepenuhnya. Terkadang, interaksi positif dengan orang lain bisa mempercepat proses penyembuhan.",
+          "Cobalah untuk tidak menyalahkan diri sendiri. Ingat bahwa semua yang terjadi adalah bagian dari perjalanan hidupmu yang akan membentuk dirimu menjadi lebih kuat.",
+          "Perlahan, cobalah untuk memaafkan dirimu sendiri dan orang lain jika perlu. Memaafkan bukan berarti melupakan, tapi melepaskan beban yang mengikatmu.",
+          "Proses healing juga bisa dimulai dengan merawat tubuhmu. Tidur yang cukup, makan dengan sehat, dan bergerak setiap hari bisa membantu pikiran dan tubuhmu merasa lebih baik."
+        ]
+      },      
+      {
+        "tag": "selflove",
+        "patterns": [
+          "Gimana sih caranya mencintai diri sendiri?", "Aku sering lupa untuk cinta diri sendiri, ada tips?", "Aku nggak bisa belajar untuk self-love, gimana ya?", "Kenapa self-love itu penting?", "Aku merasa nggak cukup baik, gimana cara mencintai diri sendiri?", "Ada tips supaya bisa lebih menghargai diri sendiri?", "Aku sering merasa rendah diri, gimana cara belajar self-love?", "Self-love itu apa sih?", "Gimana caranya supaya bisa lebih percaya diri?", "Aku butuh belajar untuk lebih menghargai diri sendiri"
+        ],
+        "responses": [
+          "Self-love itu dimulai dengan menerima dirimu apa adanya. Cobalah untuk menerima kekurangan dan kelebihan yang ada pada dirimu tanpa rasa malu atau ragu.",
+          "Ingat, kamu sudah cukup! Kamu berharga, dan kamu layak mendapatkan yang terbaik. Cintailah dirimu sendiri dengan cara menerima segala yang ada pada dirimu.",
+          "Mulailah dengan berbicara dengan dirimu sendiri dengan lebih baik. Hindari mengkritik diri sendiri dan gantikan dengan kata-kata yang lebih positif dan penuh kasih sayang.",
+          "Cobalah untuk memberi perhatian lebih pada diri sendiri. Luangkan waktu untuk melakukan hal-hal yang kamu nikmati dan yang membuatmu merasa dihargai.",
+          "Jangan bandingkan dirimu dengan orang lain. Setiap orang memiliki perjalanan hidup yang berbeda, dan kamu punya keunikan yang sangat berarti.",
+          "Cinta diri itu bukan tentang menjadi sempurna, tapi tentang menerima dirimu dengan segala kekurangan dan kelebihan yang kamu miliki.",
+          "Setiap kali kamu merasa ragu, ingatkan diri sendiri bahwa kamu pantas untuk merasa bahagia dan dihargai. Jangan tunggu orang lain untuk memberi itu pada dirimu.",
+          "Self-love juga berarti merawat tubuhmu, pikiranmu, dan emosimu. Cobalah untuk melakukan aktivitas yang membuatmu merasa sehat dan bahagia, seperti olahraga atau meditasi.",
+          "Kamu nggak perlu menunggu sampai kamu merasa 'cukup' untuk mencintai dirimu. Mulailah dari sekarang, karena kamu sudah layak merasa bahagia dengan diri sendiri.",
+          "Cinta diri itu adalah sebuah perjalanan, bukan tujuan. Beri dirimu waktu untuk tumbuh, belajar, dan berkembang dengan cara yang penuh kasih."
+        ]
+      },      
+      {
+        "tag": "mental_health_tips",
+        "patterns": [
+          "Gimana cara menjaga kesehatan mental?", "Ada tips supaya mental tetap sehat?", "Aku gampang stres, gimana cara biar lebih tenang?", "Kesehatan mental itu penting nggak sih?", "Bagaimana menjaga kesehatan mental di tengah tekanan?", "Aku sering cemas, ada tips buat atasi itu?", "Kesehatan mental itu gimana cara merawatnya?", "Aku ingin lebih tenang, ada saran?", "Gimana cara menjaga pikiran tetap positif?", "Tips biar nggak gampang overthinking?"
+        ],
+        "responses": [
+          "Cobalah untuk mengenali apa yang membuatmu stres dan temukan cara yang cocok untuk mengatasinya, seperti berbicara dengan teman atau menulis di jurnal.",
+          "Luangkan waktu untuk dirimu sendiri setiap hari, meskipun hanya 10-15 menit. Gunakan waktu itu untuk hal-hal yang membuatmu merasa lebih tenang, seperti mendengarkan musik atau membaca.",
+          "Hindari membandingkan dirimu dengan orang lain, terutama di media sosial. Fokus pada dirimu sendiri dan perjalanan hidupmu.",
+          "Olahraga ringan secara rutin bisa membantu mengurangi stres dan kecemasan. Aktivitas fisik juga meningkatkan hormon endorfin yang baik untuk suasana hati.",
+          "Jaga pola makan dan tidur yang teratur. Tubuh yang sehat membantu menjaga pikiran tetap stabil dan fokus.",
+          "Kurangi multitasking jika merasa terlalu terbebani. Fokus pada satu hal dulu sebelum melanjutkan ke yang berikutnya.",
+          "Jangan ragu untuk meminta bantuan jika merasa terlalu tertekan. Berbicara dengan seseorang yang kamu percaya atau mencari bantuan profesional bisa sangat membantu.",
+          "Cobalah untuk melatih mindfulness atau meditasi. Fokus pada saat ini dapat membantu mengurangi kecemasan dan membuatmu lebih sadar akan apa yang terjadi di sekitarmu.",
+          "Luangkan waktu untuk bersosialisasi dengan orang yang mendukungmu. Dukungan dari orang terdekat dapat membuatmu merasa lebih ringan dan diterima.",
+          "Berikan waktu pada dirimu untuk istirahat dari pekerjaan atau kegiatan yang terlalu membebani. Beristirahat bukan berarti menyerah, tetapi cara untuk mengisi ulang energi."
+        ]
+      },      
+      {
+        "tag": "kegagalan",
+        "patterns": [
+          "Aku gagal lagi, kenapa sih?", "Kenapa aku terus-terusan gagal?", "Aku merasa gagal dalam hidup", "Gagal itu bikin aku putus asa, gimana ya?", "Bagaimana cara menghadapi kegagalan?", "Aku takut gagal, gimana cara mengatasinya?", "Kegagalan itu menyakitkan, gimana biar bangkit?", "Aku gak tau gimana harus bangkit dari kegagalan", "Kenapa gagal itu selalu terasa berat?", "Gimana caranya belajar dari kegagalan?"
+        ],
+        "responses": [
+          "Kegagalan itu bagian dari perjalanan hidup. Setiap orang pasti pernah gagal, tapi yang penting adalah bagaimana kita bangkit setelah itu.",
+          "Cobalah melihat kegagalan sebagai pelajaran, bukan sebagai akhir dari segalanya. Ada banyak hal yang bisa kamu pelajari dari setiap kesalahan.",
+          "Jangan terlalu keras pada dirimu sendiri. Gagal itu wajar, dan itu bukan berarti kamu tidak cukup baik. Kamu hanya sedang belajar.",
+          "Ingat, kegagalan itu sementara. Apa yang kamu lakukan setelah gagal itulah yang benar-benar menentukan masa depanmu.",
+          "Setiap orang yang sukses pasti pernah gagal. Yang membedakan adalah mereka tidak berhenti mencoba. Kamu juga bisa melakukannya.",
+          "Rasa sakit karena gagal itu nyata, tapi gunakan itu sebagai motivasi untuk bangkit dan mencoba lagi dengan cara yang lebih baik.",
+          "Cobalah untuk tidak fokus pada kegagalan itu sendiri, tapi fokuslah pada apa yang bisa kamu lakukan untuk memperbaikinya atau memulai lagi.",
+          "Gagal sekali bukan berarti kamu akan gagal selamanya. Setiap kegagalan adalah batu loncatan menuju sesuatu yang lebih baik.",
+          "Jangan takut gagal. Justru dari kegagalan, kamu akan menemukan cara baru dan lebih baik untuk mencapai tujuanmu.",
+          "Yang terpenting adalah kamu sudah mencoba. Gagal adalah bagian dari proses belajar, dan itu membuatmu lebih kuat dan lebih bijaksana."
+        ]
+      },      
+      {
+        "tag": "salam_perpisahan",
+        "patterns": [
+          "Terima kasih", "Dadah", "Sampai jumpa", "Bye", "Ok makasih", "Aku pergi dulu ya", "Sampai ketemu lagi", "Thank you", "Aku pamit dulu", "Makasih banget ya"
+        ],
+        "responses": [
+          "Sampai jumpa lagi, ya! Jangan lupa jaga diri dan semoga harimu menyenangkan.",
+          "Semoga harimu penuh kebahagiaan. Kalau butuh bantuan lagi, aku di sini!",
+          "Terima kasih juga. Kalau ada yang perlu, jangan ragu untuk kembali ngobrol, ya.",
+          "Dadah, sampai ketemu lagi lain waktu. Semangat terus buat apa pun yang kamu lakukan!",
+          "Pamit dulu, ya! Semoga semuanya berjalan lancar untukmu.",
+          "Senang bisa bantu kamu. Jangan lupa untuk tetap positif dan percaya diri, sampai jumpa lagi!",
+          "Oke, sampai ketemu lagi. Ingat, kamu tidak sendiri, aku selalu siap membantu.",
+          "Sampai nanti, ya! Kalau ada yang ingin dibicarakan lagi, aku siap menemanimu.",
+          "Pamit dulu, semoga harimu penuh dengan hal-hal baik. Sampai ketemu lagi!",
+          "Dadah, jaga semangatmu dan jangan lupa untuk selalu percaya pada dirimu sendiri!"
+        ]
+      }
+      
+    ]
+  }
+  
